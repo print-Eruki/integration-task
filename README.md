@@ -1,6 +1,6 @@
 ## Description
 
-- The file integration_displacement contains a function that must receive as parameters, the initial velocity x, y and z, the final velocity 
+- The file integration_displacement.py contains a function that must receive as parameters, the initial velocity x, y and z, the final velocity 
 in terms of x, y and z, and must receive the initial time and final time. All of this parameters must be inside a list container and the orders is important. Which means . To find displacement we have to find the product between the rate of change in velocity and the rate of change in time:
                   
                                         displacement = Δvelocity * Δtime
